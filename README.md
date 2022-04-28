@@ -1,6 +1,10 @@
+### こんにちわ！ 小麦ジャンキー太郎と申します👋
+- 🔭 エネルギー業界で働いています。プログラミングとは縁のない世界ですが、AIやデータサイエンスを学ぶことで競争力を高められると思い、Pythonを勉強中です。 
+
 ### Hi there 👋
 - 🔭 I’m currently working in an energy sector as an operator. 
 - 🌱 I’m currently learning Python. 
+
 <!--
 **udonbaka/udonbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

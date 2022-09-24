@@ -1,8 +1,8 @@
 ### こんにちわ！ 小麦ジャンキー太郎と申します👋
-- 🔭 エネルギー業界で働いています。プログラミングとは縁の遠い世界ですが、AIやデータサイエンスを勉強中です。 
+- 🔭 システムの仕事をしています。AIやデータサイエンスを勉強中です。 
 
 ### Hi there 👋
-- 🔭 I’m currently working in an energy sector as an operator. 
+- 🔭 I’m working as a　software engineer. 
 - 🌱 I’m currently learning Python. 
 
 <!--
